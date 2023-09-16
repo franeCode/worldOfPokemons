@@ -17,5 +17,6 @@ Features:
 🔄 Real-Time Data Retrieval:  
   * The app dynamically fetches data from the PokeAPI, ensuring that the information is always current.
     
-  
-Try it [here](https://replit.com/@AnaPopovic1/pokemonprojectpy#main.py)
+
+   
+Try it here [🔗](https://replit.com/@AnaPopovic1/pokemonprojectpy#main.py)  
