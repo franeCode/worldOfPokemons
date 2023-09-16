@@ -1,5 +1,4 @@
-### World Of Pokemons
-This is a simple terminal-based app built with Python.
+### World Of Pokemons   
 
 Explore the world of Pokémon by typing their names in the terminal. 
 This app will guide you, especially if you are new to this world. 
